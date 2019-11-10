@@ -652,9 +652,7 @@
    lda @0
    tay
    sta temp_high   
-   ; generate a random number to 256 (this will be read from the screen)
-   ; our lookup table is 16 bits so shift once to get the actual index   
-   ;jsr rng:
+   ; our lookup table is 16 bits so shift once to get the actual index      
    lda quote_index
    clc
    sta temp_low

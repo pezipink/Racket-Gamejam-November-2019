@@ -830,7 +830,7 @@
     rts
 
 :white-colours
-   ;set usable area to random colours
+   ;set usable area to white
     ldx @$00
     lda @1
     :clrloop

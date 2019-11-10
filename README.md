@@ -1,6 +1,6 @@
 # Racket-Gamejam-November-2019
 
-This project was written over a couple of evenings for the Racket Novemeber Gamejam.
+This project was written over a couple of evenings for the Racket November Gamejam.
 
 It is an implementation of the classic robotfindskitten "Zen Simulator" and is written in my Racket-based 6502 assembler, asi64 https://docs.racket-lang.org/asi64/index.html
 
@@ -16,3 +16,7 @@ You will need a suitable C64 emulator such as VICE http://vice-emu.sourceforge.n
 Then simply load the .prg file and play.  You may need to map some keys to the joystick since it is used as a control input.
 
 If you have the means, you can play it on a real machine too!
+
+Here's a video of it running on a real machine
+
+https://www.youtube.com/watch?v=NrQnZwJIVLk

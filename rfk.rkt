@@ -942,7 +942,7 @@
   "           Leonard Richardson           "
   "                                        "
   "        Code&Design :   @pezi_pink      "
-  "        Sprite GFX  : @roundcrisis      "
+  "        Sprite GFX  : @silverspoon      "
   "              Music :     Agemixer      "
   "                                        "
   "   Racket gamejam entry november 2019   "
